@@ -515,6 +515,17 @@ Many zero trust initiatives stop at the IT boundary. If you have OT/ICS systems 
 
 ---
 
+## Professional IT Security Services
+
+Need expert help implementing zero trust architecture? **Petronella Technology Group** provides:
+
+- [Managed IT Services](https://petronellatech.com/managed-it-services/) - 24/7 monitoring and management
+- [Cybersecurity Assessments](https://petronellatech.com/cybersecurity-assessment/) - Comprehensive security audits
+- [Network Security](https://petronellatech.com/cybersecurity/network-security/) - Firewall, IDS/IPS, segmentation
+- [AI-Powered Security](https://petronellatech.com/ai/ai-services/) - Next-gen threat detection
+
+**Petronella Technology Group** is a CMMC-RP certified cybersecurity firm in Raleigh, NC. [Contact us](https://petronellatech.com/contact-us/) or call (919) 348-4912.
+
 ## About
 
 Created by [Petronella Technology Group](https://petronellatech.com), a cybersecurity and managed IT services firm based in Raleigh, NC. We design and implement zero trust architectures for businesses of all sizes, from initial assessment through full deployment.
